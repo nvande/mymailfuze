@@ -1,0 +1,111 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #101318;
+  --color-ink-soft: #3a414b;
+  --color-paper: #ffffff;
+  --color-paper-2: #f5f5f5;
+  --color-paper-3: #eeeeee;
+  --color-wax: #e89233;
+  --color-wax-deep: #c97a1f;
+  --color-gold: #e89233;
+  --color-teal: #1b4543;
+  --color-teal-mid: #2f6b67;
+  --color-line: rgba(16, 19, 24, 0.12);
+  --font-display: var(--font-outfit), "Helvetica Neue", sans-serif;
+  --font-sans: var(--font-outfit), "Helvetica Neue", sans-serif;
+  --font-mono: var(--font-plex), ui-monospace, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: color-mix(in oklab, var(--color-wax) 28%, white);
+  color: var(--color-ink);
+}
+
+.font-display {
+  font-family: var(--font-display);
+  font-weight: 560;
+  letter-spacing: -0.03em;
+}
+
+.eyebrow {
+  font-size: 0.9375rem;
+  font-weight: 550;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.font-mono {
+  font-family: var(--font-mono);
+}
+
+.grain {
+  position: relative;
+  isolation: isolate;
+}
+
+.grain::before {
+  content: "";
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  opacity: 0.18;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+.grain > * {
+  position: relative;
+  z-index: 1;
+}
+
+.rule {
+  height: 1px;
+  background: var(--color-line);
+}
+
+.stamp {
+  box-shadow:
+    0 0 0 1px color-mix(in oklab, var(--color-gold) 55%, transparent),
+    inset 0 0 0 3px color-mix(in oklab, var(--color-gold) 35%, transparent);
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.rise {
+  animation: rise 0.8s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.rise-delay-1 {
+  animation-delay: 80ms;
+}
+.rise-delay-2 {
+  animation-delay: 160ms;
+}
+.rise-delay-3 {
+  animation-delay: 240ms;
+}
+.rise-delay-4 {
+  animation-delay: 320ms;
+}
