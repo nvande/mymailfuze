@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[33128,["/mymailfuze/_next/static/chunks/3_b23_71a9vn_.js","/mymailfuze/_next/static/chunks/3i05r0kzfjad9.js"],"ContactForm"]
+3:I[97367,["/mymailfuze/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/mymailfuze/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+9:I[97367,["/mymailfuze/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+a:I[27201,["/mymailfuze/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+c:I[39756,["/mymailfuze/_next/static/chunks/3fntmmi971322.js"],"default"]
+d:I[37457,["/mymailfuze/_next/static/chunks/3fntmmi971322.js"],"default"]
+7:X
+f:X
+f:C
+0:{"buildId":"rC1pHFM2rEwJ20ePpJUF7","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"border-b border-ink/10","children":["$","div",null,{"className":"mx-auto max-w-6xl px-5 py-16 md:px-8 md:py-24","children":[["$","p",null,{"className":"eyebrow text-wax rise","children":"Schedule a demo"}],["$","h1",null,{"className":"font-display mt-4 max-w-4xl text-balance text-4xl leading-[1.1] tracking-tight md:text-6xl rise rise-delay-1","children":"Find a time that works for you."}],["$","p",null,{"className":"mt-6 max-w-2xl text-pretty text-lg text-ink-soft rise rise-delay-2","children":"Tell us who you are and what you send. We’ll book a walkthrough of MailFuze Standard or MailFuze for Rent Manager—no slide deck required unless you want one."}],"$undefined"]}]}],["$","section",null,{"children":["$","div",null,{"className":"mx-auto grid max-w-6xl gap-12 px-5 py-16 md:grid-cols-12 md:px-8","children":[["$","div",null,{"className":"md:col-span-5","children":[["$","h2",null,{"className":"font-display text-2xl","children":"What we’ll cover"}],["$","ul",null,{"className":"mt-6 space-y-3 text-ink-soft","children":[["$","li",null,{"children":"Your current mailing volume and mail types"}],["$","li",null,{"children":"Whether Rent Manager (or another system) is in the mix"}],["$","li",null,{"children":"A live path: list → preview → estimate → send"}],["$","li",null,{"children":"Proof, tracking, and chargebacks if they apply"}]]}],["$","p",null,{"className":"mt-8 text-sm text-ink-soft","children":["Prefer the phone? Call"," ",["$","a",null,{"href":"tel:2622166300","className":"font-medium text-ink underline","children":"262-216-6300"}]," ","or email"," ",["$","a",null,{"href":"mailto:info@efformance.com","className":"font-medium text-ink underline","children":"info@efformance.com"}],"."]}]]}],["$","div",null,{"className":"rounded-3xl border border-ink/10 p-6 md:col-span-7 md:p-8","children":["$","$L2",null,{"intent":"demo","submitLabel":"Request a time"}]}]]}]}]],[["$","script","script-0",{"src":"/mymailfuze/_next/static/chunks/3i05r0kzfjad9.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Schedule a demo · MailFuze"}],["$","meta","1",{"name":"description","content":"Schedule a MailFuze demo. Pick a time that works and see Standard or Rent Manager in action."}],["$","link","2",{"rel":"icon","href":"/icon?92cbdfc0c0ddd3fb","type":"image/png","sizes":"32x32"}],["$","$La","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+5:null
+11:true
+7:300
+7:C
+10:0
+b:"$undefined"
+e:"$undefined"
+6:"$undefined"

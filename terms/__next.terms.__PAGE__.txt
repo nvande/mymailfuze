@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[97367,["/mymailfuze/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/mymailfuze/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+8:I[97367,["/mymailfuze/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+9:I[27201,["/mymailfuze/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+b:I[39756,["/mymailfuze/_next/static/chunks/3fntmmi971322.js"],"default"]
+c:I[37457,["/mymailfuze/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:X
+e:X
+e:C
+0:{"buildId":"rC1pHFM2rEwJ20ePpJUF7","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"border-b border-ink/10","children":["$","div",null,{"className":"mx-auto max-w-6xl px-5 py-16 md:px-8 md:py-24","children":[["$","p",null,{"className":"eyebrow text-wax rise","children":"Legal"}],["$","h1",null,{"className":"font-display mt-4 max-w-4xl text-balance text-4xl leading-[1.1] tracking-tight md:text-6xl rise rise-delay-1","children":"Terms"}],["$","p",null,{"className":"mt-6 max-w-2xl text-pretty text-lg text-ink-soft rise rise-delay-2","children":"The MailFuze website is provided by Efformance for information and to start a conversation. Service agreements govern paid use."}],"$undefined"]}]}],["$","section",null,{"children":["$","div",null,{"className":"mx-auto max-w-3xl space-y-8 px-5 py-16 text-ink-soft md:px-8","children":[["$","div",null,{"children":[["$","h2",null,{"className":"font-display text-2xl text-ink","children":"The site"}],["$","p",null,{"className":"mt-3","children":"Content on this site describes MailFuze Standard and MailFuze for Rent Manager. Features, mail types, and automation may depend on the plan you purchase and the systems you connect. A demo is the right place to confirm fit."}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"font-display text-2xl text-ink","children":"Marks"}],["$","p",null,{"className":"mt-3","children":"USPS, Certified Mail, Priority Mail, and Priority Mail Express are trademarks of the United States Postal Service. Rent Manager is a trademark of its respective owner. MailFuze and Efformance are marks of Efformance."}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"font-display text-2xl text-ink","children":"Contact"}],["$","p",null,{"className":"mt-3","children":["info@efformance.com"," · ","262-216-6300"]}]]}]]}]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Terms · MailFuze"}],["$","meta","1",{"name":"description","content":"Terms of use for the MailFuze website and services."}],["$","link","2",{"rel":"icon","href":"/icon?92cbdfc0c0ddd3fb","type":"image/png","sizes":"32x32"}],["$","$L9","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+4:null
+10:true
+6:300
+6:C
+f:0
+a:"$undefined"
+d:"$undefined"
+5:"$undefined"
